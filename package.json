@@ -1,0 +1,13 @@
+{
+  "name": "Skill Bridge Project",
+  "version": "1.0.0",
+  "description": "It's a place where a person find a tutor to get guidenace to enhance his knowledge and skills",
+  "license": "ISC",
+  "author": "Shadhin Khan",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node src/index.js"
+  }
+}
